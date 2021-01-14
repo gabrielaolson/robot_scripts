@@ -1,0 +1,23 @@
+Issue Type,Issue key,Issue id,Parent id,Summary,Assignee,Assignee Id,Reporter,Reporter Id,Created,Status,Updated
+Sub-task,PRODUCTQA-4119,80015,80011,Sign Up: Password,,,user name ,1f446d4bdef70002f688312,15/Dez/20 13:58 AM,New Ticket,15/Dez/20 14:00 AM
+Sub-task,PRODUCTQA-5120,80016,80011,Sign Up: Checkbox Terms Of Services,,,user name ,1f446d4bdef70002f688312,15/Dez/20 13:58 AM,New Ticket,15/Dez/20 14:00 AM
+Sub-task,PRODUCTQA-3150,80023,80011,Login: Wrong credentials - Password,,,user name ,1f446d4bdef70002f688312,15/Dez/20 13:58 AM,New Ticket,15/Dez/20 14:00 AM
+Sub-task,PRODUCTQA-3140,80024,80011,Login: Wrong credentials - Username,,,user name ,1f446d4bdef70002f688312,15/Dez/20 13:58 AM,New Ticket,15/Dez/20 14:00 AM
+Sub-task,PRODUCTQA-4532,80025,80011,Login: Successful request - Mail,,,user name ,1f446d4bdef70002f688312,15/Dez/20 13:58 AM,New Ticket,15/Dez/20 14:00 AM
+Sub-task,PRODUCTQA-4230,80026,80011,Login: Successful request - Username,,,user name ,1f446d4bdef70002f688312,15/Dez/20 13:58 AM,New Ticket,15/Dez/20 14:00 AM
+Sub-task,PRODUCTQA-4135,80027,80011,Login: Link to Sign Up,,,user name ,1f446d4bdef70002f688312,15/Dez/20 13:58 AM,New Ticket,15/Dez/20 14:00 AM
+Sub-task,PRODUCTQA-4136,80028,80011,Login: Link to Recover Password,,,user name ,1f446d4bdef70002f688312,15/Dez/20 13:58 AM,New Ticket,15/Dez/20 14:00 AM
+Sub-task,PRODUCTQA-4135,80029,80011,Recover password: Mail not registered,,,user name ,1f446d4bdef70002f688312,15/Dez/20 13:58 AM,New Ticket,15/Dez/20 14:00 AM
+Sub-task,PRODUCTQA-4134,80030,80011,Recover password: Mail registered, but not validated",,,user name ,1f446d4bdef70002f688312,15/Dez/20 13:58 AM,New Ticket,15/Dez/20 14:00 AM
+Sub-task,PRODUCTQA-4139,80031,80011,Recover password: Successful,,,user name ,1f446d4bdef70002f688312,15/Dez/20 13:58 AM,New Ticket,15/Dez/20 14:00 AM
+Sub-task,PRODUCTQA-4285,80179,80164,Download dataset ,,,user name,1f446d4bdef70002f688312,15/Dez/20 14:05 AM,New Ticket,15/Dez/20 14:15 AM
+Sub-task,PRODUCTQA-4386,80182,80164,Dataset: Product counter,,,user name ,1f446d4bdef70002f688312,15/Dez/20 14:05 AM,New Ticket,15/Dez/20 14:15 AM
+Sub-task,PRODUCTQA-4288,80186,80164,Dataset: Item counter,,,user name ,1f446d4bdef70002f688312,15/Dez/20 14:05 AM,New Ticket,15/Dez/20 14:15 AM
+Sub-task,PRODUCTQA-4295,80193,80164,Dataset: Right sidebar widget in datasets,,,user name ,1f446d4bdef70002f688312,15/Dez/20 14:05 AM,New Ticket,15/Dez/20 14:15 AM
+Sub-task,PRODUCTQA-3445,80244,80164,First Use: Product: new,,,user name ,1f446d4bdef70002f688312,15/Dez/20 14:04 AM,New Ticket,15/Dez/20 14:15 AM
+Sub-task,PRODUCTQA-4367,80256,80164,New datasets: Articles: All settings used,,,user name ,1f446d4bdef70002f688312,15/Dez/20 14:04 AM,New Ticket,15/Dez/20 14:15 AM
+Sub-task,PRODUCTQA-4280,80174,80164,Tooltips right widget for articles,,,user name ,1f446d4bdef70002f688312,15/Dez/20 14:05 AM,New Ticket,15/Dez/20 14:15 AM
+Sub-task,PRODUCTQA-4260,80177,80164,Tool tips right widget for products,,,user name ,1f446d4bdef70002f688312,15/Dez/20 14:05 AM,New Ticket,15/Dez/20 14:15 AM
+Sub-task,PRODUCTQA-4266,80180,80164,Configuration: Dataset: Article Feed: delivery,,,user name ,1f446d4bdef70002f688312,15/Dez/20 14:05 AM,New Ticket,15/Dez/20 14:15 AM
+Sub-task,PRODUCTQA-4318,80212,80164,Configuration: Dataset: Products: URL,,,user name ,1f446d4bdef70002f688312,15/Dez/20 14:05 AM,New Ticket,15/Dez/20 14:15 AM
+Sub-task,PRODUCTQA-4367,80213,80164,Configuration: Dataset: Products: delivery day,,,user name ,1f446d4bdef70002f688312,15/Dez/20 14:05 AM,New Ticket,15/Dez/20 14:15 AM
