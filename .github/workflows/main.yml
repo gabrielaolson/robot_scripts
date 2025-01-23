@@ -30,7 +30,7 @@ jobs:
       # 4. Rodar os testes do Robot Framework
       - name: Run Robot Framework Tests
         run: |
-          robot tests/  # Alterar o diretório conforme o local onde seus testes estão
+          robot Tests/  # Alterar o diretório conforme o local onde seus testes estão
 
       # 5. Upload de resultados (opcional)
       - name: Upload Test Results
