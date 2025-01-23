@@ -1,0 +1,42 @@
+name: Run Robot Framework Tests
+
+on:
+  push:
+    branches:
+      - main  # Ou a branch que você deseja monitorar
+  pull_request:
+    branches:
+      - main  # Ou a branch que você deseja monitorar para PRs
+
+jobs:
+  test:
+    runs-on: ubuntu-latest  # Ambiente Ubuntu
+
+    steps:
+      # 1. Fazer o checkout do código
+      - name: Checkout code
+        uses: actions/checkout@v2
+
+      # 2. Configurar o Python
+      - name: Set up Python
+        uses: actions/setup-python@v2
+        with:
+          python-version: '3.9'  # Especifica a versão do Python que você deseja usar
+
+      # 3. Instalar dependências
+      - name: Install dependencies
+        run: |
+          pip install -r requirements.txt  # Se você tiver um arquivo requirements.txt
+          pip install robotframework  # Caso você não tenha requirements.txt ou deseje instalar o Robot Framework diretamente
+
+      # 4. Rodar os testes do Robot Framework
+      - name: Run Robot Framework Tests
+        run: |
+          robot tests/  # Alterar o diretório conforme o local onde seus testes estão
+
+      # 5. Upload de resultados (opcional)
+      - name: Upload Test Results
+        uses: actions/upload-artifact@v2
+        with:
+          name: robot-results
+          path: output.xml  # Arquivo de saída do Robot Framework
