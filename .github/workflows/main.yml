@@ -26,9 +26,7 @@ jobs:
       # 3. Instalar dependências
       - name: Install dependencies
         run: |
-          pip install -r requirements.txt  # Se você tiver um arquivo requirements.txt
-          pip install robotframework  # Caso você não tenha requirements.txt ou deseje instalar o Robot Framework diretamente
-
+          pip3 install robotframework robotframework-requests robotframework-jsonlibrary
       # 4. Rodar os testes do Robot Framework
       - name: Run Robot Framework Tests
         run: |
