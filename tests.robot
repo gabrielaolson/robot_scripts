@@ -1,2 +1,3 @@
 *** Test Cases ***
 
+test
